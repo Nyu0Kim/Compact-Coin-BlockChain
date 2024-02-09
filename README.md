@@ -1,4 +1,4 @@
-# BlockChain-A-to-Z
+# Compact-Coin-BlockChain
 
 ### Below is a temporary list.
 
@@ -24,6 +24,7 @@
 - Module 3 - Smart Contract
 
 ---
+
 TODO
 플블 추가 -> 컴퓨터 분산 + 화폐 제작
 코인 시뮬레이션용 계약 작성
@@ -35,5 +36,5 @@ Anaconda IDE + Spyder
 - 채굴용 패키지 request
 - postman 상호작용 bash code
 
-- Flask 설치 해야할 듯???????시바...
-- 서버 요청용 postman 필요할 듯???
+- Flask
+- 서버 요청용 postman
